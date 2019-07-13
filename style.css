@@ -45,7 +45,7 @@ body, html {
     min-height: 100%;
 }
 body {
-    background-image: url("assets/Images/ep_naturalwhite copy.jpg");
+    background-image: url("Images/ep_naturalwhite copy.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
